@@ -13,7 +13,7 @@ using Xunit;
 
 namespace Microsoft.AspNetCore.Components.Server.Circuits
 {
-    public class CircuirHostTest
+    public class CircuitHostTest
     {
         [Fact]
         public void Dispose_DisposesResources()
